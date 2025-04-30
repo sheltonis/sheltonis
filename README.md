@@ -18,4 +18,4 @@ I am working on building my skills in Cyber security by learning;
 - VirtualBox and Kali Linux
 
 ## 🤔💭
-> "You miss 100% of the shots you dont take."
+> "You miss 100% of the shots you don't take."
